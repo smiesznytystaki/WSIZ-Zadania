@@ -35,14 +35,14 @@ print(type(x9))
 #<class 'float'>
 
 b1 = int(3.0)
-#Instrukcja ta zamienia liczbę zmiennoprzecinkową 3.0 na liczbę całkowitą
+#Instrukcja ta zamienia liczbę zmiennoprzecinkową 3.0 na liczbę całkowitą.
 b2 = float(3)
-#Instrukcja ta zamienia liczbę całkowitą 3 na liczbę zmiennoprzecinkową
+#Instrukcja ta zamienia liczbę całkowitą 3 na liczbę zmiennoprzecinkową.
 b3 = float("3")
-#Instrukcja ta konwertuje wartość tekstową "3" na liczbę zmiennoprzecinkową
+#Instrukcja ta konwertuje wartość tekstową "3" na liczbę zmiennoprzecinkową.
 b4 = str(12.4)
-#Instrukcja ta zamienia liczbę zmiennoprzecinkową 12.4 na ciąg znaków
+#Instrukcja ta zamienia liczbę zmiennoprzecinkową 12.4 na ciąg znaków.
 b5 = bool(0)
-#Instrukcja ta sprawdza czy liczba 0 jest prawdą w kontekście logicznym
+#Instrukcja ta sprawdza czy liczba 0 jest prawdą w kontekście logicznym.
 
 print(b1,b2,b3,b4,b5)
